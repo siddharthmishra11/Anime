@@ -1,0 +1,62 @@
+
+.head1{
+  background-color: #ea5455;
+  height: 200px;
+
+}
+body{
+  margin: 0px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  color: #EAF6F6;
+  font-weight: normal;
+  margin: 0px;
+  text-align: centre;
+  padding: 40px;
+}
+.cover{
+  width: 3%;
+
+}
+.cover:hover{
+  background-color: blue;
+}
+.name{
+  display: inline;
+     font-family: 'Sacramento', cursive;
+    font-size: 2.3rem;
+    margin-left: 70px;
+
+}
+.decoration{
+  margin: 100px;
+
+}
+ h3{
+   font-size: 3rem;
+   font-family: 'Montserrat', sans-serif;
+   color: #222831;
+   text-decoration: none;
+
+ }
+ a{
+    text-decoration: none;
+    color: #66BFBF;
+ }
+ a:visited{
+    color: #66BFBF;;
+ }
+ a:hover{
+   color: purple;
+ }
+
+.anime-img{
+  width: 60%;
+}
+.list{
+  padding: 50px;
+}
